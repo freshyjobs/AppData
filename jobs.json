@@ -1,5 +1,23 @@
 [
   {
+    "CompanyName": "Cisco",
+    "CompanyLogoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png",
+    "JobProfile": "Information Security Engineer ",
+    "CTC": "Not Mentioned",
+    "Experience": "Fresher",
+    "Qualification": "B.E(Computer Science or Information Science)",
+    "JobDescription": "Eligibility\n\n•  Currently pursuing a Bachelor of Engineering degree in Computer Science or Information Science\n•  CGPA of 8.0 (out of 10) and above\n•  Excellent written and verbal communication skills. Must be fluent in English.\n•  Ability to simply and effectively communicate complex technical concepts to stakeholders\n\n\nWhat you will do ?\n\n• Performs IT functions such as design, analysis, evaluation, testing, debugging, implementation/integration and operations of new tools, systems or 3rd party products/platforms to deliver or provide updates to business processes and operations on Enterprise Security related products and capabilities.\n\n• Specify, build, maintain and support Enterprise Security products/capabilities. Analyzes, installs, acquires, modifies, and supports operating systems, platforms, directory services, authentication services and software services.\n\n• Focused on configuring, installing, upgrading, monitoring, and scripting of existing Enterprise Security platforms/capabilities and applications (3rd party, home-grown, on-prem, cloud, etc.) to get the desired performance required.\n\nStakeholders\n\n• Strong problem-solving instincts and abilities\n\n• Attentive to detail\n\n• Proficient in general security concepts like Cyber Security, Directory Services, \n  Authentication Services, Security Intelligence, Forensics etc..\n\n• Familiar with general networking capabilities like IP Address Management, Routing, \n  Switching, Gateways, DNS, Load Balancing, Firewalls, etc..\n\n• Familiar with standard programming languages (Linux, C,C++, Python), scripting and\n",
+    "DriveLocation": "Online",
+    "JobLocation": "Bangalore",
+    "BlogLink": "https://freshyjobs.in/",
+    "ApplyLink": "\nhttps://www.linkedin.com/jobs/view/2595432232/",
+    "JobCategory": "Internships",
+    "IndustryType": "IT_SOFTWARE",
+    "Author": "aniketdgp",
+    "JobValidity": "TRUE",
+    "Timestamp": "6/18/2021 11:47:44"
+  },
+  {
     "CompanyName": "Swiggy",
     "CompanyLogoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Swiggy_logo.svg/1200px-Swiggy_logo.svg.png",
     "JobProfile": "Software Dev Engineer I",
