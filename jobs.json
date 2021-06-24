@@ -1,5 +1,23 @@
 [
   {
+    "CompanyName": "Zycus",
+    "CompanyLogoURL": "https://pbs.twimg.com/profile_images/1362056762992463876/wPpZ8lvJ.png",
+    "JobProfile": "Test Engineer",
+    "CTC": "Not Mentioned",
+    "Experience": "Fresher",
+    "Qualification": "BE/B. Tech in CS/IT",
+    "JobDescription": "If you are someone with a flawless programming foundation and a penchant for breaking others’ code, then this role could just be a perfect fit for you. Expand your career by becoming a Test Engineer at Zycus.\n\n\n-Wondering what you will be doing?\n\nAs a Test Engineer at Zycus you will be part of an agile team, which ideates, designs and develops innovative solutions for Zycus Products and develops software to test the code, write automation framework, do automation testing to improve the product quality . Write automated integration tests, API tests and/or UI automation tests. In an agile environment, where we work in short sprints or iterations and each sprint is focused on only a few requirements or user stories, the role of an SDET Engineer becomes very important as they help in increasing efficiency as well as reliability for the applications under test by replacing manual repetitive tasks with automation. In this role you will be primarily responsible for automating test cases as well as writing reusable scripts/tools that help the team to reduce repetitive efforts.\n\n\n-Skills and knowledge required to be successful in this role:\n\n1. Should have strong Programming Skills and Automation mindset\n2. Should have solid understanding of testing principles and methodologies\n3. Can code in at least one scripting or programming language (Java/JavaScript/ Typescript)\n4. Should be highly proficient at debugging issues\n5. Be familiar with API testing\n6. Should be able to write UI as well as API automated tests\n7. Should understands CI/CD concepts and Build pipelines\n8. Should know the services offered by cloud platform providers such as AWS, Azure and Google Cloud\n9. Should have strong Problem Solving and Analytical Skills\n10. Understand architecture of web applications and general client-server model\n11. Should be aware of basic Object-Oriented Programming concepts\n12. Should be comfortable in working with teams using the Sprint/Scrum methodology of agile.\n\n\n-Five Reasons Why You Should Join Zycus\n\n1. Cloud Product Company: We are a cloud SaaS company and our products are created by using the latest technologies like ML and AI. Our UI is in Angular JS and we are developing our mobile apps using React.\n2. A Market Leader: Zycus is recognized by Gartner (world’s leading market research analyst) as a Leader in Procurement Software Suites.\n3. Move between Roles: We believe that change leads to growth and therefore we allow our employees to shift careers and move to different roles and functions within the organization\n4. Get a Global Exposure: You get to work and deal with our global customers.\n5. Create an Impact: Zycus gives you the environment to create an impact on the product and transform your ideas into reality. Even our junior engineers get the opportunity to work on different product features.\n\n\n-About Us:\n\nZycus is a pioneer in Cognitive Procurement software and has been a trusted partner of choice for large global enterprises for two decades. Zycus has been consistently recognized by Gartner, Forrester, and other analysts for its Source to Pay integrated suite. Zycus powers its S2P software with the revolutionary Merlin AI Suite. Merlin AI takes over the tactical tasks and empowers procurement and AP officers to focus on strategic projects; offers data-driven actionable insights for quicker and smarter decisions, and its conversational AI offers a B2C type user-experience to the end-users.\nZycus helps enterprises drive real savings, reduce risks, and boost compliance, and its seamless, intuitive, and easy-to-use user interface ensures high adoption and value across the organization.\nStart your #CognitiveProcurement journey with us, as you are #MeantforMore",
+    "DriveLocation": "Online",
+    "JobLocation": "Mumbai / Bangalore",
+    "BlogLink": "https://freshyjobs.in/",
+    "ApplyLink": "https://apply.workable.com/zycus-1/j/2B7BDD8CA0/",
+    "JobCategory": "Private",
+    "IndustryType": "IT_SOFTWARE",
+    "Author": "aniketdgp",
+    "JobValidity": "TRUE",
+    "Timestamp": "6/24/2021 22:06:12"
+  },
+  {
     "CompanyName": "Yash Technologies",
     "CompanyLogoURL": "https://www.hfsresearch.com/wp-content/uploads/5c93780b35566938454434.png",
     "JobProfile": "Trainee Programmer- RPA Job",
